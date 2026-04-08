@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_new_business_v1_16_user,new.business.v1.16 user,model_new_business_v1_16,sales_team.group_sale_salesman,1,0,0,0
+access_new_business_v1_16_manager,new.business.v1.16 manager,model_new_business_v1_16,sales_team.group_sale_manager,1,0,0,0
