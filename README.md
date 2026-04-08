@@ -1,5 +1,6 @@
 # new_business_v1.16
 Modulo Odoo 17 per il calcolo automatico del New Business per venditore.
+
 ⸻
 Changelog v1.16
 - Fix campo Anno: il campo Anno ora mostra 2026 invece di 2.026 
@@ -8,6 +9,7 @@ Changelog v1.16
 - Canone / Offerta a corpo ora riporta correttamente la data della 
 - prima milestone, non la data di conferma ordine
 ⸻
+
 Struttura file
 
 new_business_v1_16/
